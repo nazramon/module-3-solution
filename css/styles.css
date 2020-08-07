@@ -1,0 +1,70 @@
+#header-nav {
+  background-color: grey;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand {
+    padding-top: 10px;
+    height: 80px;
+  }
+
+.navbar-brand h1 {
+  color:black;
+  font-size: 3em;
+  text-shadow: 3px 3px 3px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+li {
+  border: 1px solid black;
+}
+
+#nav-list a {
+  color: black;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -45px;
+}
+
+.text-center {  
+  text-align: center;
+  font-size: 2em;
+  background-color: lightgrey;
+  margin-bottom: 0;
+  width: 85%;
+  margin:auto;
+  }
+
+
+#loremipsum {
+  background-color: lightgrey;
+  width: 85%;
+  margin:auto;
+  text-align: left;
+  margin-bottom: 25px;
+}
+
+
+.menu-head{
+  font-size: 3em;
+  background-color: white;
+  margin-bottom: 25px;
+  font-weight: bold;
+}
